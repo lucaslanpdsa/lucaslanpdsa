@@ -4,8 +4,6 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslanpdsa&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"><br/>
