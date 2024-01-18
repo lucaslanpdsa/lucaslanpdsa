@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Lucas Alves 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalves8/)
-
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslanpdsa&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
@@ -15,3 +13,5 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
+
+## contato: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalves8/)
