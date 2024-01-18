@@ -16,6 +16,9 @@
 
 ## contato <br/>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalves8/)
+<div style="display: inline-block">
 
-[![Portifólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://meu-portifolio-47q2.vercel.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalves8/)
+[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://meu-portifolio-47q2.vercel.app/)
+
+</div>
