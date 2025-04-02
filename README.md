@@ -56,5 +56,3 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e soluções eficiente
 </div>
 
 ---
-
-⭐ **Se gostou do meu trabalho, considere dar uma estrela nos meus repositórios!** 😊
