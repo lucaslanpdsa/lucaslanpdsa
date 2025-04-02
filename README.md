@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Alves 👋
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslanpdsa&show_icons=true&theme=dracula)
+![lucaslanpdsa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslanpdsa&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## Tecnologias que uso no meu dia
 
