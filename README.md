@@ -50,10 +50,7 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e soluções eficiente
   <a href="https://www.linkedin.com/in/lucasalves8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portifolio2024.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:lucasnascimento094@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
