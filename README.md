@@ -35,15 +35,6 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e soluções eficiente
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslanpdsa&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslanpdsa&theme=dracula"/>
-</div>
-
----
-
 ## 🛠️ Ferramentas & Metodologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
